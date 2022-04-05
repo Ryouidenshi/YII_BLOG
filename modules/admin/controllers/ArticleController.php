@@ -71,7 +71,7 @@ class ArticleController extends Controller
         $model = new Article();
 
         if ($model->load(Yii::$app->request->post()) && $model->saveArticle()) {
-            return $this->redirect(['view', 'id' => $model->id]);
+            return $this->redirect(['index', 'id' => $model->id]);
         } else {
             return $this->render('create', [
                 'model' => $model,
