@@ -255,5 +255,20 @@ You can see code coverage ![25](https://user-images.githubusercontent.com/550305
 ![22](https://user-images.githubusercontent.com/55030527/161861274-4636c332-c975-4a3b-ad2f-a052c77a0be7.png)
 ![23](https://user-images.githubusercontent.com/55030527/161861275-b49a2e4f-1f2b-4733-8eb7-fe2c9b89c97d.png)
 ![24](https://user-images.githubusercontent.com/55030527/161861277-3c0402bc-6b38-425c-ae68-d3aba5432815.png)
-output under the `tests/_output` directory.
+output under the `tests/_output` directory.![34](https://user-images.githubusercontent.com/55030527/161966268-648dd711-f15e-4255-aad0-9cfaa9c13d31.png)
+![35](https://user-images.githubusercontent.com/55030527/161966271-59ed753d-76a9-4f5c-837d-baf4246da86f.png)
+![36](https://user-images.githubusercontent.com/55030527/161966276-5d43ded1-d127-4bd3-a0b3-c662a9758a7b.png)
+![37](https://user-images.githubusercontent.com/55030527/161966279-25017deb-2667-41d4-a009-b337c4971ff5.png)
+![38](https://user-images.githubusercontent.com/55030527/161966281-f54774c1-0f64-4d19-810e-699f4e521140.png)
+![39](https://user-images.githubusercontent.com/55030527/161966282-b85f4c9b-2a9c-4665-8478-f047b7268c1e.png)
+![40](https://user-images.githubusercontent.com/55030527/161966283-8c28ae93-ec23-4425-ae2d-1bcae52cbfa1.png)
+![26](https://user-images.githubusercontent.com/55030527/161966285-debd8a89-e8b8-4486-bbd6-38527ce02945.png)
+![27](https://user-images.githubusercontent.com/55030527/161966286-00b9e88f-50cc-495b-95ef-a1778d7155cf.png)
+![28](https://user-images.githubusercontent.com/55030527/161966288-f421b764-2c2f-4665-8df5-d284c98afb1c.png)
+![29](https://user-images.githubusercontent.com/55030527/161966289-2de7f99f-8bd9-46f4-ab73-fa81befd2425.png)
+![30](https://user-images.githubusercontent.com/55030527/161966291-bad2deca-237c-49a7-9757-5af5fa0861a1.png)
+![31](https://user-images.githubusercontent.com/55030527/161966294-8eaca550-bbb4-4d41-9c2f-6f05b539fa49.png)
+![32](https://user-images.githubusercontent.com/55030527/161966296-723010f8-bd24-4a86-9ee7-69cf856dda16.png)
+![33](https://user-images.githubusercontent.com/55030527/161966298-2c094958-69e4-44e6-8f42-9933a1c6e503.png)
+
 Всего скришнотов вышло 140+ штук, при надобности обращаться в личку.
