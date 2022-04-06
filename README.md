@@ -256,3 +256,4 @@ You can see code coverage ![25](https://user-images.githubusercontent.com/550305
 ![23](https://user-images.githubusercontent.com/55030527/161861275-b49a2e4f-1f2b-4733-8eb7-fe2c9b89c97d.png)
 ![24](https://user-images.githubusercontent.com/55030527/161861277-3c0402bc-6b38-425c-ae68-d3aba5432815.png)
 output under the `tests/_output` directory.
+Всего скришнотов вышло 140+ штук, при надобности обращаться в личку.
